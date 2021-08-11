@@ -1,0 +1,146 @@
+[
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "December 2021",
+      "totalReimbursement": "5047.72",
+      "totalReversal": "-35.38",
+      "totalBalance": "5012.34",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "January 2021",
+      "totalReimbursement": "1125.7",
+      "totalReversal": "-100.12",
+      "totalBalance": "1025.58",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "February 2021",
+      "totalReimbursement": "1007.97",
+      "totalReversal": "-93.59",
+      "totalBalance": "914.38",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "March 2021",
+      "totalReimbursement": "151.24",
+      "totalReversal": "-95.27",
+      "totalBalance": "55.97",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "April 2021",
+      "totalReimbursement": "5047.72",
+      "totalReversal": "-35.38",
+      "totalBalance": "5012.34",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "May 2021",
+      "totalReimbursement": "1125.7",
+      "totalReversal": "-100.12",
+      "totalBalance": "1025.58",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "June 2021",
+      "totalReimbursement": "1007.97",
+      "totalReversal": "-93.59",
+      "totalBalance": "914.38",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "July 2021",
+      "totalReimbursement": "151.24",
+      "totalReversal": "-95.27",
+      "totalBalance": "55.97",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "August 2021",
+      "totalReimbursement": "5047.72",
+      "totalReversal": "-35.38",
+      "totalBalance": "5012.34",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "September 2021",
+      "totalReimbursement": "1125.7",
+      "totalReversal": "-100.12",
+      "totalBalance": "1025.58",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "October 2021",
+      "totalReimbursement": "1007.97",
+      "totalReversal": "-93.59",
+      "totalBalance": "914.38",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "November 2021",
+      "totalReimbursement": "151.24",
+      "totalReversal": "-95.27",
+      "totalBalance": "55.97",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "December 2021",
+      "totalReimbursement": "5047.72",
+      "totalReversal": "-35.38",
+      "totalBalance": "5012.34",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "May 2021",
+      "totalReimbursement": "1125.7",
+      "totalReversal": "-100.12",
+      "totalBalance": "1025.58",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "June 2021",
+      "totalReimbursement": "1007.97",
+      "totalReversal": "-93.59",
+      "totalBalance": "914.38",
+      "action": ""
+    },
+    {
+      "invoiceId": "81593-44287",
+      "invoiceDate": "2021-01-03",
+      "invoiceMonth": "July 2021",
+      "totalReimbursement": "151.24",
+      "totalReversal": "-95.27",
+      "totalBalance": "55.97",
+      "action": ""
+    }
+]
